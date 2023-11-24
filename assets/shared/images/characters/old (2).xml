@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pear.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pear Down0000" x="0" y="0" width="239" height="245"/>
+	<SubTexture name="Pear Down0001" x="0" y="0" width="239" height="245"/>
+	<SubTexture name="Pear Down0002" x="239" y="0" width="239" height="245"/>
+	<SubTexture name="Pear Down0003" x="239" y="0" width="239" height="245"/>
+	<SubTexture name="Pear Down0004" x="239" y="0" width="239" height="245"/>
+	<SubTexture name="Pear Idle0000" x="478" y="0" width="263" height="252"/>
+	<SubTexture name="Pear Idle0001" x="478" y="0" width="263" height="252"/>
+	<SubTexture name="Pear Idle0002" x="741" y="0" width="263" height="252"/>
+	<SubTexture name="Pear Idle0003" x="741" y="0" width="263" height="252"/>
+	<SubTexture name="Pear Idle0004" x="0" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0005" x="0" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0006" x="263" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0007" x="263" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0008" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0009" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0010" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0011" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0012" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0013" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0014" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0015" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0016" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0017" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0018" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Idle0019" x="526" y="252" width="263" height="252"/>
+	<SubTexture name="Pear Left0000" x="0" y="504" width="250" height="251"/>
+	<SubTexture name="Pear Left0001" x="0" y="504" width="250" height="251"/>
+	<SubTexture name="Pear Left0002" x="250" y="504" width="250" height="251"/>
+	<SubTexture name="Pear Left0003" x="250" y="504" width="250" height="251"/>
+	<SubTexture name="Pear Left0004" x="250" y="504" width="250" height="251"/>
+	<SubTexture name="Pear Right0000" x="500" y="504" width="258" height="249"/>
+	<SubTexture name="Pear Right0001" x="500" y="504" width="258" height="249"/>
+	<SubTexture name="Pear Right0002" x="758" y="504" width="258" height="249"/>
+	<SubTexture name="Pear Right0003" x="758" y="504" width="258" height="249"/>
+	<SubTexture name="Pear Right0004" x="758" y="504" width="258" height="249"/>
+	<SubTexture name="Pear Up0000" x="0" y="755" width="208" height="264"/>
+	<SubTexture name="Pear Up0001" x="0" y="755" width="208" height="264"/>
+	<SubTexture name="Pear Up0002" x="208" y="755" width="208" height="264"/>
+	<SubTexture name="Pear Up0003" x="208" y="755" width="208" height="264"/>
+	<SubTexture name="Pear Up0004" x="208" y="755" width="208" height="264"/>
+</TextureAtlas>

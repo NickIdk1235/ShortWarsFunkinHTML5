@@ -1,0 +1,65 @@
+{
+	"storyName": "Why are you helping me?",
+	"difficulties": "cloned",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"weekBefore": "week1",
+	"characterDescription": "A clone of Classic Sonic the \nHedgehog for the 2015 SHPP \nLocation. He's the main attraction at \nSonic's Hero Pizza Palace. \n \nTracks:\nNightmare\nMania\nIllusion",
+	"characterName": "Clone Sonic",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"safe-for-now",
+			"riggy",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Royal-To-Peasant",
+			"melon",
+			[
+				35,
+				255,
+				73
+			]
+		],
+		[
+			"double-conflict",
+			"RoyalRigCLone",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"foodfight",
+			"melonsad",
+			[
+				20,
+				0,
+				73
+			]
+		],
+		[
+			"graph-papered",
+			"fuckyou",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "a"
+}

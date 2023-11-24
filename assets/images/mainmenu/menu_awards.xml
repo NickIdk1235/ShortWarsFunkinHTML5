@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="awards.png">
+<SubTexture name="awards basic0000" x="720" y="156" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0001" x="720" y="156" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0002" x="720" y="156" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0003" x="0" y="309" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0004" x="0" y="309" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0005" x="0" y="309" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0006" x="500" y="309" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0007" x="500" y="309" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards basic0008" x="500" y="309" width="500" height="116" frameX="0" frameY="0" frameWidth="501" frameHeight="116" />
+<SubTexture name="awards white0000" x="0" y="0" width="712" height="156" frameX="-6" frameY="0" frameWidth="725" frameHeight="159" />
+<SubTexture name="awards white0001" x="712" y="0" width="723" height="153" frameX="0" frameY="-1" frameWidth="725" frameHeight="159" />
+<SubTexture name="awards white0002" x="0" y="156" width="720" height="153" frameX="-2" frameY="-1" frameWidth="725" frameHeight="159" />
+</TextureAtlas>

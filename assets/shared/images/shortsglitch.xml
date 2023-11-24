@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="shortsglitch.png">
+<SubTexture name="shortsglitch glitch0000" x="3672" y="602" width="10" height="26" frameX="-584" frameY="-282" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0001" x="0" y="0" width="1152" height="720" frameX="-128" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0002" x="1911" y="2160" width="952" height="688" frameX="-144" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0003" x="1152" y="0" width="960" height="720" frameX="-128" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0004" x="0" y="720" width="956" height="720" frameX="-134" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0005" x="3219" y="0" width="912" height="602" frameX="-176" frameY="-86" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0006" x="956" y="720" width="922" height="720" frameX="-174" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0007" x="2112" y="0" width="1107" height="720" frameX="-173" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0008" x="0" y="1440" width="1144" height="720" frameX="-136" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0009" x="3219" y="602" width="441" height="167" frameX="-439" frameY="-201" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0010" x="3660" y="602" width="12" height="29" frameX="-583" frameY="-280" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0011" x="1144" y="1440" width="1280" height="720" frameX="0" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0012" x="2112" y="720" width="968" height="720" frameX="-128" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0013" x="0" y="2160" width="962" height="720" frameX="-128" frameY="0" frameWidth="1280" frameHeight="720" />
+<SubTexture name="shortsglitch glitch0014" x="962" y="2160" width="949" height="720" frameX="-141" frameY="0" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

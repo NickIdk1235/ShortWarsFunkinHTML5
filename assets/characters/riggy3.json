@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				19
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BF NOTE LEFT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-19
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BF NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				27
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BF NOTE UP MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				22
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BF NOTE RIGHT MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				18
+			],
+			"anim": "hurt",
+			"fps": 24,
+			"name": "BF hit",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "boyfriend dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				294,
+				267
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "boyfriend attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-40
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "bf pre attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				-94
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Riggy Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				28,
+				-114
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "Riggy Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				56,
+				39
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "scared",
+			"indices": [],
+			"name": "Riggy Scream"
+		},
+		{
+			"offsets": [
+				65,
+				31
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Riggy2Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Riggy Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				173,
+				-5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Riggy Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Riggy3",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "riggy3",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		41,
+		117
+	],
+	"camera_position": [
+		0,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}

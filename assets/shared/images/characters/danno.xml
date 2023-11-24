@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="danno.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Danno Down instance 10000" x="0" y="0" width="522" height="442"/>
+	<SubTexture name="Danno Down instance 10001" x="522" y="0" width="522" height="442"/>
+	<SubTexture name="Danno Down instance 10002" x="1044" y="0" width="522" height="442"/>
+	<SubTexture name="Danno Down instance 10003" x="1044" y="0" width="522" height="442"/>
+	<SubTexture name="Danno Down instance 10004" x="1566" y="0" width="522" height="442"/>
+	<SubTexture name="Danno Idle instance 10000" x="2088" y="0" width="313" height="297"/>
+	<SubTexture name="Danno Left instance 10000" x="2401" y="0" width="515" height="302"/>
+	<SubTexture name="Danno Left instance 10001" x="2916" y="0" width="515" height="302"/>
+	<SubTexture name="Danno Left instance 10002" x="3431" y="0" width="515" height="302"/>
+	<SubTexture name="Danno Left instance 10003" x="0" y="442" width="515" height="302"/>
+	<SubTexture name="Danno Left instance 10004" x="515" y="442" width="515" height="302"/>
+	<SubTexture name="Danno Right instance 10000" x="1030" y="442" width="531" height="335"/>
+	<SubTexture name="Danno Right instance 10001" x="1561" y="442" width="531" height="335"/>
+	<SubTexture name="Danno Right instance 10002" x="2092" y="442" width="531" height="335"/>
+	<SubTexture name="Danno Right instance 10003" x="2092" y="442" width="531" height="335"/>
+	<SubTexture name="Danno Right instance 10004" x="2623" y="442" width="531" height="335"/>
+	<SubTexture name="Danno Up instance 10000" x="3154" y="442" width="643" height="653"/>
+	<SubTexture name="Danno Up instance 10001" x="0" y="1095" width="643" height="653"/>
+	<SubTexture name="Danno Up instance 10002" x="643" y="1095" width="643" height="653"/>
+	<SubTexture name="Danno Up instance 10003" x="643" y="1095" width="643" height="653"/>
+	<SubTexture name="Danno Up instance 10004" x="643" y="1095" width="643" height="653"/>
+</TextureAtlas>

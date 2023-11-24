@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				-105,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Melon Down"
+		},
+		{
+			"offsets": [
+				-119,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Melon Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Melon Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-166,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Melon Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-82,
+				0
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "Melon Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Melon",
+	"position": [
+		-400,
+		540
+	],
+	"healthicon": "melon",
+	"flip_x": false,
+	"healthbar_colors": [
+		93,
+		163,
+		64
+	],
+	"camera_position": [
+		90,
+		-320
+	],
+	"sing_duration": 6.3,
+	"scale": 2.4
+}

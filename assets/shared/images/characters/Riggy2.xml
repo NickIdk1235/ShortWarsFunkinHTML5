@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Riggy2.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Riggy Down0000" x="0" y="0" width="254" height="252"/>
+	<SubTexture name="Riggy Down0001" x="254" y="0" width="254" height="252"/>
+	<SubTexture name="Riggy Down0002" x="508" y="0" width="254" height="252"/>
+	<SubTexture name="Riggy Down0003" x="762" y="0" width="254" height="252"/>
+	<SubTexture name="Riggy Down0004" x="1016" y="0" width="254" height="252"/>
+	<SubTexture name="Riggy Glitch0000" x="1270" y="0" width="352" height="310"/>
+	<SubTexture name="Riggy Glitch0001" x="1622" y="0" width="352" height="310"/>
+	<SubTexture name="Riggy Glitch0002" x="0" y="310" width="352" height="310"/>
+	<SubTexture name="Riggy Glitch0003" x="352" y="310" width="352" height="310"/>
+	<SubTexture name="Riggy Glitch0004" x="704" y="310" width="352" height="310"/>
+	<SubTexture name="Riggy Left0000" x="1056" y="310" width="277" height="304"/>
+	<SubTexture name="Riggy Left0001" x="1333" y="310" width="277" height="304"/>
+	<SubTexture name="Riggy Left0002" x="1610" y="310" width="277" height="304"/>
+	<SubTexture name="Riggy Left0003" x="0" y="620" width="277" height="304"/>
+	<SubTexture name="Riggy Left0004" x="277" y="620" width="277" height="304"/>
+	<SubTexture name="Riggy Right0000" x="554" y="620" width="278" height="306"/>
+	<SubTexture name="Riggy Right0001" x="832" y="620" width="278" height="306"/>
+	<SubTexture name="Riggy Right0002" x="1110" y="620" width="278" height="306"/>
+	<SubTexture name="Riggy Right0003" x="1388" y="620" width="278" height="306"/>
+	<SubTexture name="Riggy Right0004" x="1388" y="620" width="278" height="306"/>
+	<SubTexture name="Riggy Up0000" x="1666" y="620" width="284" height="308"/>
+	<SubTexture name="Riggy Up0001" x="0" y="928" width="284" height="308"/>
+	<SubTexture name="Riggy Up0002" x="284" y="928" width="284" height="308"/>
+	<SubTexture name="Riggy Up0003" x="284" y="928" width="284" height="308"/>
+	<SubTexture name="Riggy Up0004" x="284" y="928" width="284" height="308"/>
+	<SubTexture name="Riggy2Idle0000" x="568" y="928" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0001" x="795" y="928" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0002" x="1022" y="928" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0003" x="1249" y="928" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0004" x="1476" y="928" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0005" x="1703" y="928" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0006" x="0" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0007" x="227" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0008" x="454" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0009" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0010" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0011" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0012" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0013" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0014" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0015" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0016" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0017" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0018" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0019" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0020" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0021" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0022" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0023" x="681" y="1236" width="227" height="299"/>
+	<SubTexture name="Riggy2Idle0024" x="681" y="1236" width="227" height="299"/>
+</TextureAtlas>

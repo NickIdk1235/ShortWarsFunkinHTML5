@@ -1,0 +1,45 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "1conic",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"killerqueen",
+			"danno",
+			[
+				40,
+				40,
+				255
+			]
+		],
+		[
+			"for-raise",
+			"riggy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"confronting-yourself",
+			"Fuckyou",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bonus Songs",
+	"hiddenUntilUnlocked": true
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "danno didn't listen",
+	"difficulties": "cloned",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Short-Wars",
+			"none",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"failure-of-a-clone",
+			"none",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"jailbreak",
+			"none",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "ehehehehe",
+	"hiddenUntilUnlocked": false
+}

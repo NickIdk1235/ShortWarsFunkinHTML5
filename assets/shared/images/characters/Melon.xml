@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Melon.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Melon Down0000" x="0" y="0" width="264" height="249" frameX="0" frameY="-11" frameWidth="264" frameHeight="260"/>
+	<SubTexture name="Melon Down0001" x="0" y="0" width="264" height="249" frameX="0" frameY="-11" frameWidth="264" frameHeight="260"/>
+	<SubTexture name="Melon Down0002" x="264" y="0" width="255" height="260" frameX="-5" frameY="0" frameWidth="264" frameHeight="260"/>
+	<SubTexture name="Melon Down0003" x="264" y="0" width="255" height="260" frameX="-5" frameY="0" frameWidth="264" frameHeight="260"/>
+	<SubTexture name="Melon Down0004" x="264" y="0" width="255" height="260" frameX="-5" frameY="0" frameWidth="264" frameHeight="260"/>
+	<SubTexture name="Melon Idle0000" x="519" y="0" width="275" height="270" frameX="0" frameY="-14" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0001" x="519" y="0" width="275" height="270" frameX="0" frameY="-14" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0002" x="794" y="0" width="266" height="278" frameX="-5" frameY="-8" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0003" x="794" y="0" width="266" height="278" frameX="-5" frameY="-8" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0004" x="1060" y="0" width="260" height="284" frameX="-8" frameY="-3" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0005" x="1320" y="0" width="252" height="285" frameX="-12" frameY="-3" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0006" x="1572" y="0" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0007" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0008" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0009" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0010" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0011" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0012" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0013" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Idle0014" x="0" y="288" width="252" height="288" frameX="-12" frameY="0" frameWidth="275" frameHeight="288"/>
+	<SubTexture name="Melon Left0000" x="252" y="288" width="251" height="289" frameX="-5" frameY="0" frameWidth="256" frameHeight="289"/>
+	<SubTexture name="Melon Left0001" x="252" y="288" width="251" height="289" frameX="-5" frameY="0" frameWidth="256" frameHeight="289"/>
+	<SubTexture name="Melon Left0002" x="503" y="288" width="246" height="287" frameX="0" frameY="-2" frameWidth="256" frameHeight="289"/>
+	<SubTexture name="Melon Left0003" x="503" y="288" width="246" height="287" frameX="0" frameY="-2" frameWidth="256" frameHeight="289"/>
+	<SubTexture name="Melon Left0004" x="503" y="288" width="246" height="287" frameX="0" frameY="-2" frameWidth="256" frameHeight="289"/>
+	<SubTexture name="Melon Right0000" x="749" y="288" width="268" height="286" frameX="0" frameY="0" frameWidth="270" frameHeight="286"/>
+	<SubTexture name="Melon Right0001" x="749" y="288" width="268" height="286" frameX="0" frameY="0" frameWidth="270" frameHeight="286"/>
+	<SubTexture name="Melon Right0002" x="1017" y="288" width="266" height="286" frameX="-4" frameY="0" frameWidth="270" frameHeight="286"/>
+	<SubTexture name="Melon Right0003" x="1017" y="288" width="266" height="286" frameX="-4" frameY="0" frameWidth="270" frameHeight="286"/>
+	<SubTexture name="Melon Right0004" x="1017" y="288" width="266" height="286" frameX="-4" frameY="0" frameWidth="270" frameHeight="286"/>
+	<SubTexture name="Melon Up0000" x="1283" y="288" width="233" height="305" frameX="-8" frameY="0" frameWidth="249" frameHeight="305"/>
+	<SubTexture name="Melon Up0001" x="1283" y="288" width="233" height="305" frameX="-8" frameY="0" frameWidth="249" frameHeight="305"/>
+	<SubTexture name="Melon Up0002" x="1516" y="288" width="249" height="289" frameX="0" frameY="-16" frameWidth="249" frameHeight="305"/>
+	<SubTexture name="Melon Up0003" x="1516" y="288" width="249" height="289" frameX="0" frameY="-16" frameWidth="249" frameHeight="305"/>
+	<SubTexture name="Melon Up0004" x="1516" y="288" width="249" height="289" frameX="0" frameY="-16" frameWidth="249" frameHeight="305"/>
+</TextureAtlas>

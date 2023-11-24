@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FreeplayButton.png">
+<SubTexture name="FreeplayButton jailbreak0000" x="0" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton failureofaclone0000" x="1286" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton shortwars0000" x="0" y="730" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton graphpapered0000" x="1286" y="730" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton foodfight0000" x="0" y="1460" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton doubleconflict0000" x="1286" y="1460" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton royaltopeasant0000" x="2572" y="0" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton safefornow0000" x="2572" y="730" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton repetition0000" x="2572" y="1460" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton vpn0000" x="0" y="2190" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton confronting0000" x="1286" y="2190" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton forraise0000" x="2572" y="2190" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+<SubTexture name="FreeplayButton killerqueen0000" x="0" y="2920" width="1286" height="730" frameX="0" frameY="0" frameWidth="1286" frameHeight="730" />
+</TextureAtlas>

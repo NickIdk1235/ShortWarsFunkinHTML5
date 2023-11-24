@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RiggyAnimated.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Lose0000" x="0" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0001" x="224" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0002" x="448" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0003" x="672" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0004" x="0" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0005" x="224" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0006" x="448" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0007" x="672" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0008" x="0" y="274" width="224" height="137"/>
+	<SubTexture name="Lose0009" x="224" y="274" width="224" height="137"/>
+	<SubTexture name="Lose0010" x="0" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0011" x="224" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0012" x="448" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0013" x="672" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0014" x="0" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0015" x="224" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0016" x="448" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0017" x="672" y="137" width="224" height="137"/>
+	<SubTexture name="Lose0018" x="0" y="274" width="224" height="137"/>
+	<SubTexture name="Lose0019" x="224" y="274" width="224" height="137"/>
+	<SubTexture name="Lose0020" x="0" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0021" x="224" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0022" x="448" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0023" x="672" y="0" width="224" height="137"/>
+	<SubTexture name="Lose0024" x="0" y="137" width="224" height="137"/>
+	<SubTexture name="Normal0000" x="448" y="274" width="131" height="131"/>
+</TextureAtlas>

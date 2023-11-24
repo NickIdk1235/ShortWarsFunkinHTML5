@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dedrig.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Died0000" x="0" y="0" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0001" x="1640" y="0" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0002" x="3280" y="0" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0003" x="4920" y="0" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0004" x="0" y="838" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0005" x="1640" y="838" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0006" x="3280" y="838" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0007" x="4920" y="838" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0008" x="0" y="1676" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0009" x="1640" y="1676" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0010" x="3280" y="1676" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0011" x="4920" y="1676" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0012" x="0" y="2514" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0013" x="1640" y="2514" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0014" x="3280" y="2514" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0015" x="4920" y="2514" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0016" x="0" y="3352" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0017" x="1640" y="3352" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0018" x="1640" y="3352" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0019" x="3280" y="3352" width="1640" height="859"/>
+	<SubTexture name="Died0020" x="4920" y="3352" width="1640" height="859"/>
+	<SubTexture name="Died0021" x="0" y="4211" width="1640" height="859"/>
+	<SubTexture name="Died0022" x="1640" y="4211" width="1640" height="859"/>
+	<SubTexture name="Died0023" x="3280" y="4211" width="1640" height="859"/>
+	<SubTexture name="Died0024" x="4920" y="4211" width="1640" height="859"/>
+	<SubTexture name="Died0025" x="0" y="5070" width="1640" height="859"/>
+	<SubTexture name="Died0026" x="1640" y="5070" width="1640" height="859"/>
+	<SubTexture name="Died0027" x="3280" y="5070" width="1640" height="859"/>
+	<SubTexture name="Died0028" x="4920" y="5070" width="1640" height="859"/>
+	<SubTexture name="Died0029" x="0" y="5929" width="1640" height="859"/>
+	<SubTexture name="Died0030" x="1640" y="5929" width="1640" height="859"/>
+	<SubTexture name="Died0031" x="3280" y="5929" width="1640" height="859"/>
+	<SubTexture name="Died0032" x="4920" y="5929" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0033" x="0" y="6788" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0034" x="1640" y="6788" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0035" x="3280" y="6788" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+	<SubTexture name="Died0036" x="4920" y="6788" width="1640" height="838" frameX="0" frameY="-21" frameWidth="1640" frameHeight="859"/>
+</TextureAtlas>
